@@ -31,7 +31,7 @@ The AI B2B Research Agent is a sophisticated command-line application that lever
 - Python 3.8 or higher
 - OpenAI API key
 - Firecrawl API key
-- 
+  
 ## 👨‍💻 Author
 
 **Shreya** - AI Developer & Data Engineer
@@ -41,4 +41,5 @@ The AI B2B Research Agent is a sophisticated command-line application that lever
 ---
 
 *Built with ❤️ for the B2B software community*
+
 

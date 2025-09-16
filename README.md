@@ -36,8 +36,9 @@ The AI B2B Research Agent is a sophisticated command-line application that lever
 
 **Shreya** - AI Developer & Data Engineer
 - GitHub: [@oyehi2002](https://github.com/oyehi2002)
-- Expertise: AI/ML, Data Engineering, B2B Software Analysis
+- Expertise: AI/ML, Data Engineering, Data Scientist
 
 ---
 
 *Built with ❤️ for the B2B software community*
+

@@ -4,9 +4,7 @@
 
 ### Key Capabilities
 
-- **🎯 Intelligent Tool Discovery**: Uses AI-powered web scraping and knowledge synthesis to identify relevant alternatives
-- **📊 Comprehensive Analysis**: Generates detailed comparisons including pricing models, integrations, and strategic advantages  
-- **💾 Professional Reporting**: Exports structured results to Excel with multiple worksheets for easy analysis
+- **🎯 Intelligent Tool Discovery**: Uses AI-powered web searching and knowledge synthesis to identify relevant leads
 - **🔄 Workflow Automation**: Implements LangGraph state management for reliable, multi-step research processes
 - **⚡ Terminal Interface**: Clean, efficient command-line experience designed for professional use
 
@@ -34,6 +32,7 @@
 ---
 
 *Built with ❤️ for the B2B software community*
+
 
 
 

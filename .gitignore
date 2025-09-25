@@ -1,10 +1,66 @@
-# Python-generated files
+# SECURITY - API KEYS & CREDENTIALS 
+.env
+*.env
+.env.local
+.env.production
+config/secrets.*
+api_keys.txt
+credentials.json
+
+# PYTHON VIRTUAL ENVIRONMENTS 
+venv/
+.venv/
+env/
+.env/
+ENV/
+.virtualenv
+
+# PYTHON CACHE & BUILD FILES 
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
 build/
 dist/
+.pytest_cache/
 wheels/
-*.egg-info
 
-# Virtual environments
-.venv
+# AI/ML MODEL FILES
+*.bin
+*.safetensors
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
+
+# Hugging Face cache
+.cache/
+**/transformers/
+**/.cache/huggingface/
+
+# DATABASE FILES 
+*.db
+*.sqlite
+*.sqlite3
+financial_news.db
+**/*.db-journal
+
+# LOGS & TEMPORARY FILES 
+*.log
+logs/
+*.tmp
+debug/
+experiments/
+
+# IDE FILES 
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OPERATING SYSTEM 
+.DS_Store
+Thumbs.db
+Desktop.ini
